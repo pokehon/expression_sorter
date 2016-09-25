@@ -1,4 +1,4 @@
-//Author:	Chen Yi Hao
+//Author:	Yi-Hao Chen, Hung-Xin Chen
 //License:	GPL-2 | GPL-3 [expanded from: GPL (≥ 2)]
 
 #include <iostream>
