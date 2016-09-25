@@ -1,3 +1,6 @@
+//Author:	Chen Yi Hao
+//License:	GPL-2 | GPL-3 [expanded from: GPL (≥ 2)]
+
 #include <iostream>
 #include <vector>
 #include <string>
