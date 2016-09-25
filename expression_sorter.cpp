@@ -79,7 +79,7 @@ public:
 		out.resize(len = avg1.size());
 		for (size_t i = 0; i < len; i++)
 		{
-			if (avg1[i][0] < 1 && avg2[i][0] < 1)
+			if ((avg1[i][0] < 1 && avg2[i][0] < 1) || avg1[i][0] == 0.0 || avg2[i][0] == 0.0)
 				continue;
 			out[i][0] = (avg1[i][0] / avg2[i][0]);
 		}
